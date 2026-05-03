@@ -1,10 +1,9 @@
 # Clarkston Real Estate Market Analysis: Data-Driven Development Strategy
 
-This repository contains the comprehensive market analysis and strategic development program for **Project PMA**, a 500,000+ SF mixed-use project in **Clarkston, GA**. This work was completed as a core component of a **Capstone project for the Master’s in Real Estate Development (MRED) at Georgia Tech**.
+This repository contains the market analysis conducted program for a proposed 500,000+ SF mixed-use project in **Clarkston, GA**. This work was completed as a part of a **Capstone project for the Master’s in Real Estate Development (MRED) at Georgia Tech**.
 
-The analysis leverages Python-based data science workflows to evaluate market feasibility, moving beyond traditional static reports to provide dynamic, high-conviction development recommendations.
 
-## 📍 Market Area Definitions
+## 📍 Primart Market Area Definitions
 Recognizing that different asset classes draw from distinct geographic pools, the analysis utilizes specific primary market areas (PMA) to measure demand:
 
 * **Multifamily & Residential:** Analyzed using **2-mile and 5-mile radii** to capture immediate neighborhood demand and the broader commuter base.
